@@ -1,0 +1,3 @@
+WARNING: https://amazon.com, response - 503
+WARNING: https://www.ozon.ru, response - 403
+ERROR: https://twitter.com, response - HTTPSConnectionPool(host='twitter.com', port=443): Read timed out. (read timeout=3)
